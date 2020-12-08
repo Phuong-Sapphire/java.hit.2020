@@ -1,0 +1,20 @@
+chicken|15|7000
+beef|10|100000
+ribs|15|60000
+fish|10|30000
+shrimp|8|50000
+meat|20|100000
+duck|8|30000
+noodle|10|50000
+vegetables|10|10000
+cucumber|10|10000
+corn|8|45000
+sweet potato|10|25000
+potatoes|15|25000
+tomato|10|60000
+hotdog|20|75000
+milk|20|60000
+tea|3|80000
+cafe|5|20000
+
+

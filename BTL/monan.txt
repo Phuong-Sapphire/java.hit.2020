@@ -1,0 +1,24 @@
+M01|Lẩu gà|300000
+M02|Lẩu bò|350000
+M03|Lẩu thập cẩm|250000
+M04|Lẩu sườn|250000
+M05|Lẩu cá|200000
+M06|Tôm chiên|70000
+M07|Cá kho tộ|100000
+M08|Bò sốt rượu vang|400000
+M09|Thịt nướng|180000
+M10|Mì cay|60000
+M11|Vịt quay Bắc Kinh|250000	
+M12|Salad rau củ|15000
+M13|Salad cà chua dưa chuột|20000
+M14|Kim chi|30000
+M15|Ngô chiên|20000
+M16|Khoai lang kén|25000
+M17|Xúc xích, lạp xưởng|35000	
+M18|Trà sữa|35000
+M19|Nước ngọt|15000
+M20|Nước ép|27000
+M21|Cafe|30000
+M22|Rượu vang|800000	
+
+
