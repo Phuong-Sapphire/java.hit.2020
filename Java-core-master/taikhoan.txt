@@ -1,0 +1,13 @@
+haphong|123|10001
+maiphuong|123|1000000
+haphong|123|10000001
+maiphuong|123|1000000
+hoainam|123|0
+haphong|123|9804001
+maiphuong|123|1000000
+hoainam|123|10000000
+tranLich|1|0
+haphong|123|9804001
+maiphuong|123|1000000
+hoainam|123|10000000
+tranLich|1|10000000099

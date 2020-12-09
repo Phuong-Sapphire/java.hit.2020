@@ -1,0 +1,7 @@
+ma7|Bun Ngan|25000.0
+M08|nuoc |5000.0
+1234|candy|15000.0
+123456|candy|25000.0
+hrfh|matcha|1000000.0
+123|matcha|300000.0
+

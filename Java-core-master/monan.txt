@@ -1,0 +1,11 @@
+ma1|bun ngan|49000.0
+ma2|pho ga|30000.0
+ma66|thit gaa|40000.0
+ma99|pho |20000.0
+ma67|thitbokho|80000.0
+ma88|sot vang|20000.0
+ma1|bun ngan|49000.0
+ma2|pho ga|30000.0
+ma66|thit gaa|40000.0
+ma99|pho |20000.0
+ma67|thitbokho|80000.0

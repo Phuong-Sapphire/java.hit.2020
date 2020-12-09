@@ -1,0 +1,7 @@
+M01|xuc xich|10000
+M02|lau nuong|100000
+M03|thit bo|105000
+M04|ca kho|200000
+M05|thit ga|150000
+M06|hai san|500000
+M07|rau cu|50000
